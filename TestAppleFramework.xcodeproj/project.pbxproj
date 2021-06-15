@@ -16,6 +16,7 @@
 		A5104A6126613BC70013726D /* FrameworkGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5104A6026613BC70013726D /* FrameworkGridView.swift */; };
 		A55DCB5C266360AD005CE876 /* FrameworkDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55DCB5B266360AD005CE876 /* FrameworkDetailView.swift */; };
 		A55DCB67266362F2005CE876 /* AFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55DCB66266362F2005CE876 /* AFButton.swift */; };
+		A5DEA5BB2678F5240003FD33 /* FrameworkGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DEA5BA2678F5240003FD33 /* FrameworkGridViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		A5104A6026613BC70013726D /* FrameworkGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridView.swift; sourceTree = "<group>"; };
 		A55DCB5B266360AD005CE876 /* FrameworkDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkDetailView.swift; sourceTree = "<group>"; };
 		A55DCB66266362F2005CE876 /* AFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFButton.swift; sourceTree = "<group>"; };
+		A5DEA5BA2678F5240003FD33 /* FrameworkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 			children = (
 				A5104A2A266137860013726D /* TestAppleFrameworkApp.swift */,
 				A5104A6026613BC70013726D /* FrameworkGridView.swift */,
+				A5DEA5BA2678F5240003FD33 /* FrameworkGridViewModel.swift */,
 				A55DCB5B266360AD005CE876 /* FrameworkDetailView.swift */,
 				A55DCB66266362F2005CE876 /* AFButton.swift */,
 				A5104A58266137D30013726D /* Framework.swift */,
@@ -273,6 +276,7 @@
 				A5104A59266137D30013726D /* Framework.swift in Sources */,
 				A55DCB67266362F2005CE876 /* AFButton.swift in Sources */,
 				A5104A2B266137860013726D /* TestAppleFrameworkApp.swift in Sources */,
+				A5DEA5BB2678F5240003FD33 /* FrameworkGridViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
